@@ -1,0 +1,43 @@
+#banner{
+	height: 80px;
+	background: url(images/chrisbanner.png)no-repeat;
+	text-align: center;}
+
+body {
+	font-family: 'Inconsolata', Geneva, Arial, Helvetica, sans-serif;
+	color: #006291;
+	background-image: url(images/flowers.png);
+	text-align: left;
+}
+
+#wrapper {
+background-image: url(images/gold_scale.png);
+width: 600px;
+margin: 0 auto;
+padding: 1em;
+border:none;
+}
+
+.container {
+width: 90%
+margin: 0 auto;     /*this centers it*/
+max-width: 1000px;
+background-image: url(images/gold_scale.png); /* so you can just see the container */
+}
+
+figcaption{
+font-size: 70%;
+text-align: center;
+}
+
+#ganesh{
+float: left;
+padding:10px;
+
+}
+
+#buddha{
+float: right;
+padding:10px;
+
+}
